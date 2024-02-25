@@ -1,0 +1,68 @@
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\project2.exe
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\project2.deps.json
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\project2.dll
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\project2.pdb
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.dll
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\refint\project2.dll
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.pdb
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+C:\Users\user1\Downloads\project2\project2\obj\Debug\net6.0\ref\project2.dll
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\AllTags.json
+C:\Users\user1\Downloads\project2\project2\bin\Debug\net6.0\SelfClosingTags.json
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.exe
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\AllTags.json
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\SelfClosingTags.json
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.deps.json
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.dll
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.pdb
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.dll
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\refint\project2.dll
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.pdb
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+C:\Users\user1\Downloads\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\ref\project2.dll
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.dll
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\refint\project2.dll
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.pdb
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.exe
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\AllTags.json
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\SelfClosingTags.json
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.deps.json
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.dll
+D:\פרקטיקוד 2\project2\project2\bin\Debug\net6.0\project2.pdb
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+D:\פרקטיקוד 2\project2\project2\obj\Debug\net6.0\ref\project2.dll
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\project2.exe
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\AllTags.json
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\SelfClosingTags.json
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\project2.deps.json
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\project2.dll
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\bin\Debug\net6.0\project2.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.dll
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\refint\project2.dll
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+Y:\Groups\Group_2\קסטנר  בתיה\project2\project2\obj\Debug\net6.0\ref\project2.dll
